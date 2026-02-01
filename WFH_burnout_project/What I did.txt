@@ -1,0 +1,25 @@
+What I did:
+
+Data Cleaning and Manipulation
+
+Missing value and data types verification
+Duplicate Detection
+Efficiency Metric
+High Stress days indicator
+Categorization of Screen time
+
+Exploratory Data Analysis (EDA)
+
+Summary Statistics of Burnout Score
+Sleep Hours: Low Risk vs High Risk Grouping
+Meeting Intensity Impact (> 5 meetings)
+After-Hours Impact on Task Completion Rate
+Pearson Correlation (Screen Time vs Burnout)
+
+Data Visualization
+
+Distribution Visualization of Burnout Score
+The Weekend Effect (Boxplot of Work Hours)
+Trend Discovery (Sleep vs Burnout Scatter + Regression)
+Segmental Analysis (Total Meetings per Risk category)
+System-wide Correlation Heatmap
